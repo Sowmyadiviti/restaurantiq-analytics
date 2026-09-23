@@ -1,0 +1,11 @@
+Choose Options for your categories(Enter 1 if u want to process for entire Bangalore city or Enter 2 if u want to process for a specfic location for )
+1. Entire City
+2. Particular Location
+
+Enter Choice : 1
+
+Bangalore raw data  →  BangaloreAdapter  →  Standard format
+Hyderabad raw data  →  HyderabadAdapter  →  Standard format
+                                                    ↓
+                                          Same analyser, same scorer
+                                          same charts, same reports
